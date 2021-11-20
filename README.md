@@ -9,3 +9,4 @@
 * command
 ** sed
 ** awk
+d
